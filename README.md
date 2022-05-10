@@ -21,6 +21,6 @@
   <a href = "mailto:nerv_ikari@hotmail.com"><img src="https://raw.githubusercontent.com/JoaoCarlosLemos/imagens/main/hot-mail-badge.png" width="160" target="_blank"></a>
    
   
-  ![Snake animation](https://github.com/JoaoCarlosLemos/JoaoCarlosLemos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
